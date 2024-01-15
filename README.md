@@ -441,3 +441,110 @@ Revit：
 - [OpenRoadEd](https://github.com/fhwedel-hoe/OpenRoadEd)：轻量化Opendrive编辑器
 - [OpenPulse](https://github.com/open-pulse/OpenPulse)：燃气管网震动仿真，开源
 - [hybrid_simulation](https://github.com/marioney/hybrid_simulation)：复杂交通流混合仿真，开源，Python
+
+
+
+Documents:
+
+- [GLSL ES参考手册](http://www.bimant.com/docs/glsl-es/) ：OpenGL着色器语言GLSL ES手册
+- [CadQuery 2参考手册](http://www.bimant.com/docs/cadquery)：CadQuery 2参数化建模APIshou'ce
+- [three-mesh-bvh手册](http://www.bimant.com/docs/three-mesh-bvh/)：Three.js BVH网格插件
+- [blender python api手册](http://www.bimant.com/docs/blender-python/)：Blender Python API开发手册
+- [three.js api手册](http://www.bimant.com/docs/threejs/)：最流行的WebGL开发库three.js API手册
+- [cesium js api手册](http://www.bimant.com/docs/cesiumjs/)：最流行的开源Web GIS cesium js API手册
+- [OpenSceneGraph手册](http://www.bimant.com/docs/openscenegraph/)： OpenGL开发库OpenSceneGraph开发API手册
+- [VCG手册](http://www.bimant.com/docs/vcg)：计算机图形学开发库VCG开发API手册
+- [OpenCascade C++开发文档](http://www.bimant.com/docs/vcg)：开源CAD内核OpenCascade C++开发手册
+- [3D文件格式指南](http://bimant.com/docs/3dformat)：3D/BIM/GIS/CAD文件格式指南
+- [IFC.js API手册](http://www.bimant.com/docs/ifcjs)：ifc.js 开发API文档
+- [Revit 2023 API手册](http://www.bimant.com/docs/revit2023)：Revit 2023开发API文档
+- [Turf.js开发手册](http://www.bimant.com/docs/turfjs)：Turf.js开发API文档
+- [Yuka.js开发手册](http://www.bimant.com/docs/yukajs)：游戏AI引擎Yuka.js开发API文档
+- [Gempy开发手册](http://www.bimant.com/docs/gempy)：3D地质建模Gempy开发API文档
+- [Open3D开发手册](http://www.bimant.com/docs/open3d)：3D点云与网格库Open3D开发API文档
+- [OpenSundiv开发手册](http://www.bimant.com/docs/opensubdiv)：曲面细分OpenSubdiv开发API文档
+
+
+
+Datasets:
+
+地图：
+
+- [天地图](http://lbs.tianditu.gov.cn/server/MapService.html)：国家基础地理信息中心提供的地图API
+- [河北天地图](http://hebei.tianditu.gov.cn/home/)：天地图河北站
+- [OSM](https://www.openstreetmap.org/)：Open Street Map
+- [gscloud](http://www.gscloud.cn/)：地理空间数据云，提供不同精度的DEM数据，中科院提供
+- [srtm](https://srtm.csi.cgiar.org/srtmdata/)：全球90m分辨率DEM数据
+- [REMA](https://link.zhihu.com/?target=https%3A//data.pgc.umn.edu/elev/dem/setsm/REMA/mosaic/v1.1/8m/)：8m分辨率DEM数据，美国明尼苏达大学和俄亥俄州立大学发布
+- [AW3D30](https://link.zhihu.com/?target=https%3A//www.eorc.jaxa.jp/ALOS/en/aw3d30/data/index.htm)：日本太空发展署提供的DEM数据，2.5~5m分辨率收费，30m分辨率免费
+- [ASTER](https://link.zhihu.com/?target=https%3A//lpdaac.usgs.gov/products/astgtmv003)：30m分辨率GDEM数据，日本提供
+- [locaSpace](http://www.locaspace.cn/LSV.jsp)：中科图新地图网站，集成多种在线地图资源，包括百度地图、影像、标注；天地图地图、影像、标注、影像、标注等
+- [usgs](https://ngmdb.usgs.gov/)：美国地质调查局网站，提供全美地形图下载。
+
+纹理：
+
+- [Textures.com](https://www.textures.com/)：纹理库
+- [PolyHaven](https://polyhaven.com/)：HDR、纹理、3D资产库
+- [hdri haven](https://hdri-haven.com/)：HDR图像库
+
+SVG：
+
+- [FreeSVG](https://freesvg.org/)：免费svg网站
+
+3D模型：
+
+- [sketchfab.com](https://sketchfab.com/)：在线3D模型库
+- [ShapeNet](https://shapenet.org/)：用于机器学习的3D CAD模型集
+- [R2N2](http://3d-r2n2.stanford.edu/)：R2N2模型库，用于三维重建算法
+- [artec3d](https://www.artec3d.com/3d-models)：扫描重建的3D模型库
+- [dmi-3d](https://www.dmi-3d.net/#)：3D车辆模型库
+- [hum-3d](https://hum3d.com/zh/free/ivysaur-pokemon/)：免费的3D模型库
+- [clara](https://clara.io/library)：超过10万个免费3D模型
+- [RenderPeople](https://renderpeople.com/free-3d-people/)：3D人物模型库
+- [Sketchup](https://www.sketchuptextureclub.com/3d-models)：3D家居模型库
+
+地下数据：
+
+- [MGS](https://mngs-umn.opendata.arcgis.com/)：明尼苏达大学的地探数据集
+
+模型库：
+
+- [maximo](https://www.mixamo.com/#/)：游戏角色模型库
+
+BIM模型：
+
+- [opensourceBIM IFC](https://github.com/opensourceBIM/IFC-files)：可用于演示、测试和验证的CC版权的IFC模型库
+
+规范& 文档：
+
+- [IFC2X3](http://bimant.com/ifc/R2x3_Final/)
+- [IFC4_3RC1](http://bimant.com/ifc/IFC4_3/RC1/HTML)
+- [Speckle指南](http://guide.speckle.bimant.com/)：3D数据引擎Speckle开发与使用指南
+- [Esmini文档](https://esmini.github.io/)：esmini官方文档
+- [obj format](https://www.cs.cmu.edu/~mbz/personal/graphics/obj.html)：wavefront obj格式规范
+
+AI模型库：
+
+- [modelzoo](https://modelzoo.co/)：预训练深度学习模型集市
+- [pytorch hub](https://pytorch.org/hub/)：pytorch预训练模型集市
+- [huggingface hub](https://huggingface.co/models)：huggingface预训练模型集市
+- [tensorflow hub](https://www.tensorflow.org/hub)：tensorflow预训练模型集市
+- [spacy models](https://spacy.io/models)：spacy预训练模型
+- [keras models](https://keras.io/api/applications/)：Keras深度学习预训练模型
+- [onnx model zoo](https://github.com/onnx/models)：onnx预训练模型集市
+- [tensorflowjs models](https://www.tensorflow.org/js/models)：tensorflow.js预训练模型集
+- A[cadenet pytorch models](https://github.com/Cadene/pretrained-models.pytorch)： cadenet pytorch预训练模型
+
+AI平台：
+
+- [Stability AI](https://platform.stability.ai/) ：AI生成图片
+
+ML框架：
+
+- [Ivy](https://github.com/unifyai/ivy)：支持JAX、Tensorflow、pytorch等
+
+仿真：
+
+- [Mesa](https://github.com/projectmesa/mesa)：基于代理的仿真建模，python
+- [Sumo](https://github.com/eclipse/sumo)：微观交通仿真，python
+- [Moose](https://github.com/idaholab/moose)：面向对象的多物理场仿真环境，C++
